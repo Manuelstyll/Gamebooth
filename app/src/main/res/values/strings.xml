@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gamebooth</string>
+    <string name="no_match">No match found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+</resources>
